@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/harmony165/Todo-list-with-Helper/static/js/main.15837be9.chunk.js",
+    "main.js.map": "/harmony165/Todo-list-with-Helper/static/js/main.15837be9.chunk.js.map",
+    "runtime-main.js": "/harmony165/Todo-list-with-Helper/static/js/runtime-main.17f23e5f.js",
+    "runtime-main.js.map": "/harmony165/Todo-list-with-Helper/static/js/runtime-main.17f23e5f.js.map",
+    "static/css/2.150d169a.chunk.css": "/harmony165/Todo-list-with-Helper/static/css/2.150d169a.chunk.css",
+    "static/js/2.70317850.chunk.js": "/harmony165/Todo-list-with-Helper/static/js/2.70317850.chunk.js",
+    "static/js/2.70317850.chunk.js.map": "/harmony165/Todo-list-with-Helper/static/js/2.70317850.chunk.js.map",
+    "index.html": "/harmony165/Todo-list-with-Helper/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/harmony165/Todo-list-with-Helper/static/css/2.150d169a.chunk.css.map",
+    "static/js/2.70317850.chunk.js.LICENSE.txt": "/harmony165/Todo-list-with-Helper/static/js/2.70317850.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17f23e5f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.70317850.chunk.js",
+    "static/js/main.15837be9.chunk.js"
+  ]
+}
