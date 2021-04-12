@@ -30,8 +30,7 @@ updateInput(value){
 	});
 }
 
-addItem(event){
-	if(event.keyCode == 13){
+addItem(){
 		if(this.state.userInput !== '' ){
 			const userInput = {
 		
@@ -51,9 +50,14 @@ addItem(event){
 				userInput:""
 			});
 			}
-	}
 	
 }
+handleKeypress = event => {
+	//it triggers by pressing the enter key
+  if (event.keyCode === 13) {
+	this.addItem();
+  }
+};
 
 
 deleteItem(key){
@@ -115,7 +119,7 @@ render(){
 			onChange = {item => this.updateInput(item.target.value)}
 			aria-label="add something"
 			aria-describedby="basic-addon2"
-			onKeyDown={(event)=>this.addItem(event)}
+			onKeyDown={(event)=>this.handleKeypress(event)}
 		/>
 		<InputGroup.Append>
 			<Button
