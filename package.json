@@ -1,6 +1,5 @@
-
 {
-  "homepage":"https://github.com/harmony165/Todo-list-with-Helper",
+  "homepage": "https://github.com/harmony165/Todo-list-with-Helper",
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +14,6 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
-
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
